@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{42D522CD-ED16-40EB-A69D-27C70D8E1924}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PostProcessing.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PostProcessing.cs" Line="55" Column="41" />
+      <File FileName="Assets/Shaders/PostProcessing_ShaderToy.shader" Line="315" Column="116" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
